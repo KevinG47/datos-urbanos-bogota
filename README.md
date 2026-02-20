@@ -33,7 +33,7 @@ python resumen_mantenimiento_vial.py
 
 ## 👤 Autor
 
-[Tu nombre] - Estadística USTA
+Kevin Leonardo Chaparro Reyes - Estadística USTA
 
 ## 📅 Fecha
 
